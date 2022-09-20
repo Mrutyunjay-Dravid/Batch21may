@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-09T23:44:47 IST" name="Default suite" finished-at="2022-09-09T23:44:58 IST" duration-ms="10657">
+    <groups>
+    </groups>
+    <test started-at="2022-09-09T23:44:47 IST" name="Default test" finished-at="2022-09-09T23:44:58 IST" duration-ms="10657">
+      <class name="test.OrangeHRM_TestNG">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:test.OrangeHRM_TestNG@36bc55de]" started-at="2022-09-09T23:44:47 IST" name="beforeClass" finished-at="2022-09-09T23:44:53 IST" duration-ms="5776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.OrangeHRM_TestNG@36bc55de]" started-at="2022-09-09T23:44:53 IST" name="beforeMethod" finished-at="2022-09-09T23:44:54 IST" duration-ms="1109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="HomeTest()[pri:0, instance:test.OrangeHRM_TestNG@36bc55de]" started-at="2022-09-09T23:44:54 IST" name="HomeTest" finished-at="2022-09-09T23:44:58 IST" duration-ms="3726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeTest -->
+      </class> <!-- test.OrangeHRM_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
